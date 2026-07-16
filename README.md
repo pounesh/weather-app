@@ -2,6 +2,13 @@
 
 A simple weather application built with HTML, CSS, and JavaScript.
 
+
+live demo :
+weather-app-nu-lac-53.vercel.app
+
+
+
+
  ✨ Features
 - Search weather by city name
 - Displays:
